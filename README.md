@@ -1,2 +1,3 @@
-# Pong
-Пинг-понг на языке Lua, сделанный с помощью LOVE
+# Games on Lua with LÖVE
+## Games:
+### 1. Pong
